@@ -1,5 +1,6 @@
 <ActionsData>
 
+<!--
   <action id="begin_magnate_job" category="job">
     <requirement>
       <job operation="no_job" />
@@ -12,5 +13,6 @@
         <job id="job_magnate" type="add" />
     </commands>
   </action>
+-->
 
 </ActionsData>

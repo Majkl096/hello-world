@@ -1,0 +1,12 @@
+<Jobsdata>
+
+  <job id="job_magnate">
+    <states>
+      <state name="sell_price" value="0">
+    </states>
+    <levels>
+      <level name="magnante"></level>
+    </levels>
+  </job>
+
+</Jobsdata>

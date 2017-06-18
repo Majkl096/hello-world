@@ -1,0 +1,16 @@
+<ActionsData>
+
+  <action id="begin_magnate_job" category="job">
+    <requirement>
+      <job operation="no_job" />
+      <item id="business_restaurant" operation="exist" />
+      <item id="business_gamedev_studio" operation="exist" />
+      <item id="business_security_company" operation="exist" />
+      <item id="business_delivery_company" operation="exist" />
+    </requirement>
+    <commands>
+        <job id="job_magnate" type="add" />
+    </commands>
+  </action>
+
+</ActionsData>
